@@ -3,10 +3,14 @@ Password is 12345
 Remember that this may change.
 ## What if this is blocked for you?
 
-Create an issue containing what blocker they are using.
+Create an issue containing what blocker they are using. Don't have time now but eventually I will get around to this.
 
 
-## Netlify Version
-https://monkey3three.netlify.app/index2.html
+## Netlify Version [DEPRECATED]
+h̶t̶t̶p̶s̶:̶/̶/̶m̶o̶n̶k̶e̶y̶3̶t̶h̶r̶e̶e̶.̶n̶e̶t̶l̶i̶f̶y̶.̶a̶p̶p̶/̶i̶n̶d̶e̶x̶2̶.̶h̶t̶m̶l̶
 
- Hardware Tycoon works on this version for some reason unlike GitHub pages. Made this pretty quick all the games work just the other pages go to the normal website, I don't have time right now I'll fix it later.
+Got rid of this because Netlify was going to charge me as it was about to hit the bandwith limit, yet I was on the free tier. I was meaning to delete this one for a while because of this reason but since its almost 
+100% bandwith used for this month, I've finally done it.
+
+## New Version
+Making a new version of monkey3three using Apache, will be up soon. Since it's not a static website it's a lot more things I can do. If you have any suggestions, just post something in the discussions tab of the github.
