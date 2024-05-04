@@ -13,3 +13,4 @@ Got rid of this because Netlify was going to charge me as it was about to hit th
 
 ## New Version
 Making a new version of monkey3three using Apache, will be up soon. Since it's not a static website it's a lot more things I can do. If you have any suggestions, just post something in the discussions tab of the github.
+Update: ported over pretty much everything, got a ssl certificate (took me 2 months) and i am ready to start adding features! (4th may 2024)
