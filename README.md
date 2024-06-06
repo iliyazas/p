@@ -5,6 +5,8 @@ Remember that this may change.
 
 Create an issue containing what blocker they are using. Don't have time now but eventually I will get around to this.
 
+## Updates?
+I will release a '1.0' patch for the github version, no features or anything added just cleaning things up. I will probably update monkey3three indefintely, or for a long time at least. But I am moving on from the github version, 2.0 website releasing soon. Really soon in fact, I'm almost done. Though I may have leaked the website beta accidentally... If you look hard enough you'll see it.
 
 ## Netlify Version [DEPRECATED]
 
