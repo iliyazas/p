@@ -1,4 +1,4 @@
-# unblocked88.github.io
+# monkey3three
 Password is 12345
 Remember that this may change.
 ## What if this is blocked for you?
@@ -9,7 +9,7 @@ Create an issue containing what blocker they are using. Don't have time now but 
 ## Netlify Version [DEPRECATED]
 
 Got rid of this because Netlify was going to charge me as it was about to hit the bandwith limit, yet I was on the free tier. I was meaning to delete this one for a while because of this reason but since its almost 
-100% bandwith used for this month, I've finally done it.
+100% bandwith used for this month, I've finally done it. Netlify files are still up on github, feel free to host it for yourself.
 
 ## New Version AKA 2.0
 Making a new version of monkey3three using Apache, will be up soon. Since it's not a static website it's a lot more things I can do. If you have any suggestions, just post something in the discussions tab of the github.
