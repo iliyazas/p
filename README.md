@@ -2,7 +2,7 @@
 There is no longer a password.
 
 ## 2.0 is out!!!!
-https://monkey3three.ddns.net is the 2.0 website. Feedback is appreciated!
+https://monkey3three.com is the 2.0 website. Feedback is appreciated!
 
 ## Netlify Version [DEPRECATED]
 
